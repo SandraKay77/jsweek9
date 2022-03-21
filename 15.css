@@ -1,0 +1,20 @@
+.tile {
+    border: 1px solid black;
+    display: inline-block;
+    margin: 2px;
+    padding: 2px;
+    text-align: center;
+    position: absolute;
+
+}
+
+#board {
+    border: 1px solid black;
+    
+}
+
+body {
+    overflow: hidden;
+    margin: 0px;
+     
+}
